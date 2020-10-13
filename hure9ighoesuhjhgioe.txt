@@ -54,11 +54,12 @@ ANSWER: Parappa 2, "FOODCOURT"
 
 
 9's hints:
-"
+"what's on the shelves?" red herrings: INFO, SSSS, RDVS
+ANSWER: "ANNOUNCEMENTS"
 
 
 10's hints:
 "well, looks like we're coming to the end."
 "time's up."
 "the alarm is ringing, can you hear it?"
-ANSWER: timer's up, "0:00"
+ANSWER: timer's up, "0.000"
