@@ -1,0 +1,64 @@
+1's hints:
+
+"these remote doctors use such little screens, but they have so many tiny squares in them...how many are there?" red herring: RIKRI
+ANSWER: 352x198 = "69696"
+
+
+2's hints:
+
+"yes sarge, the time was..." red herring: CLOCK
+"time flies when you're having fun, doesn't it?"
+ANSWER: 10:40 PM = "2240"
+
+
+3's hints:
+
+"the room where it happens" red herring: HAMILTON, BURR
+"what are we looking at?"
+ANSWER: room name = "ELECTRONICS"
+
+
+4's hints:
+
+"what's my name?" red herring: DEADLYSPRINKLEZ
+"tick tock...the time ticks away."
+ANSWER: name of the timer = "COUNTDOWN"
+
+
+5's hints:
+
+"who had the stats this month?" red herring: XAEL, FOG
+"we're on the fourty-first already, aren't we?"
+ANSWER: name of the host = "CV35W"
+
+
+6's hints:
+
+"there are five digits, one through five." red herring: 12345
+"the first is the highest number."
+"the fifth is the lowest number." red herring: 54321
+"the third takes a second..."
+"the fourth lives in it's quarters."
+"the second took bronze."
+ANSWER: riddle = "53241"
+
+
+7's hints:
+"okay, but seriously, what is the password?"
+ANSWER: "samurai"
+
+
+8's hints:
+"quiz time. what was the first level deadlysprinklez ever published?"
+ANSWER: Parappa 2, "FOODCOURT"
+
+
+9's hints:
+"
+
+
+10's hints:
+"well, looks like we're coming to the end."
+"time's up."
+"the alarm is ringing, can you hear it?"
+ANSWER: timer's up, "0:00"
